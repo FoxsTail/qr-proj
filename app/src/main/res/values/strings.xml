@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">QR project</string>
-    <string name="id_label">The ID is</string>
-    <string name="id_value">[id]</string>
-    <string name="content_label">The Content is</string>
-    <string name="content_value">[content]</string>
+    <string name="appName">qr_scanner</string>
+    <string name="username_label">The Username  is</string>
+    <string name="username_value"></string>
+    <string name="email_label">The Email is</string>
+    <string name="email_value"></string>
     <string name="action_refresh">Refresh</string>
+
+    <string name="id_label">The ID is</string>
+    <string name="id_value"></string>
+    <string name="content_label">The Content is</string>
+    <string name="content_value"></string>
 </resources>
